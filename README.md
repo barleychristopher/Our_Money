@@ -1,4 +1,4 @@
-# Household Expense Tracker 1.4
+# Our Money — Household Finance v2.1
 
 A mobile-friendly, installable web app for tracking personal and shared household finances in GBP. It stores records locally in the browser; it does not sync data between devices.
 
@@ -17,7 +17,7 @@ A mobile-friendly, installable web app for tracking personal and shared househol
 2. Extract this ZIP.
 3. Upload the *contents* of this folder to the root of the existing GitHub repository, replacing matching files and adding new files.
 4. In GitHub, open Settings → Pages and ensure the existing Pages source is still configured.
-5. Wait for deployment to complete, then open the same published URL in Chrome and refresh/reopen the app.
+5. Wait for deployment to complete. Close the installed app fully, then open the published URL in Chrome and refresh it. If it still shows the old version, open Chrome site settings for that URL and clear the site storage/cache (only after exporting a backup), then reopen the URL and reinstall if needed.
 6. Check existing records are present before continuing. Do not clear browser site data.
 
 ## Notes on calculations
